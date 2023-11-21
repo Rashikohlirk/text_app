@@ -1,0 +1,132 @@
+    1  pwd
+    2  ls
+    3  mkdi test_app
+    4  mkdir test_app
+    5  ls
+    6  cd datasets
+    7  cd ixp
+    8  pwd
+    9  ls
+   10  cd..
+   11  cd ..
+   12  cd "drive pics"
+   13  ls
+   14  pwd
+   15  cd ..
+   16  pwd
+   17  mkdir_testapp
+   18  mkdir test_app
+   19  mkdir testapp
+   20  mkdir f1
+   21  rmdir f1
+   22  pwd
+   23  ls
+   24  cd test_app
+   25  mkdir f1
+   26  mkdir f2
+   27  mkdir f3
+   28  rmdir f1 f2 f3 f4
+   29  rmdir f1 f2 f3
+   30  rm -r f1
+   31  mkdir test_app
+   32  cd test_app
+   33  cd ..
+   34  rmdir f1
+   35  rmdir new folder
+   36  rmdir f2
+   37  rm -r f2
+   38  rmdir test_app
+   39  touch f1.test
+   40  touch f2.sql f3.py f4.txt
+   41  cat. f4.txt
+   42  cat f4.txt
+   43  cat f5.txt
+   44  nano f3.py
+   45  nano f4.txt
+   46  cat f4.txt
+   47  history >> commands.tct
+   48  history >> commands.txt
+   49  rmdir commands.tct
+   50  history
+   51  history >> commands.txt
+   52  pwd
+   53  ls
+   54  cd..text_app
+   55  pwd
+   56  ls
+   57  cd .. test_app
+   58  cd..test_app
+   59  cd 'test_app'
+   60  pwd
+   61  ls
+   62  cd 'text_app'
+   63  cd..'text_app'
+   64  cd 'text_app'
+   65  pdw
+   66  pwd
+   67  ls
+   68  cd..'text_app'
+   69  cd "text_app"
+   70   cd.."text_app"
+   71  pwd
+   72  ls
+   73  cd "text_app"
+   74  cd .."text_app"
+   75  ls
+   76  cd.."text_app"
+   77  cd "test_app"
+   78  git config
+   79  ls
+   80  ls -a
+   81  git config --global.name 'rashikohlirk'
+   82  ls
+   83  ls --a
+   84  pwd
+   85  ls
+   86  cd "test_app"
+   87  git init
+   88  git confir --global user.name 'rashikohlirk'
+   89  git config --global.user.name 'rashikohlirk'
+   90  git config --global user.name 'Rashikohlirk'
+   91  git confir --global user.email 'rashikohlirk@gmail.com'
+   92  git config --global user.email 'Rashikohlirk@gmail.com'
+   93  git config --list
+   94  git remote -v
+   95  git  remote add origin [200~https://github.com/Rashikohlirk/text_app.git~
+   96  git remote -v
+   97  git remote remve origin
+   98  git remote add origin https://github.com/Rashikohlirk/text_app.git
+   99  git remote -v
+  100  git remote add origin
+  101  git remote add origin https://github.com/Rashikohlirk/text_app.git
+  102  git branch -m master main
+  103  git status
+  104  git add f4.txt
+  105  git add f1.test
+  106  git add f2.sql f3.py
+  107  git status
+  108  git rm -- cached f5.tc
+  109  git add .
+  110  git status
+  111  git rm -r --cached .
+  112  git add.
+  113  git add .
+  114  git status
+  115  git commit -m 'This is my first commit'
+  116  git status
+  117  git push -f origin main
+  118  git push -f origin main
+  119  git remote remove origin
+  120  git push -f origin main
+  121  git remote -v
+  122  git remote -v
+  123  git push --set-upstream origin
+  124  git remote -v
+  125  git push --f origin main
+  126  git push -f origin main
+  127  pwd
+  128  ls
+  129  cd "test_app"
+  130  history >> commands.txt
+  131  history
+  132  history >> comands.txt
